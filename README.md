@@ -2,4 +2,4 @@
 
 ### Aiming for a duck-hunt like mechanic to build from
 
-![alt tag](/images/screen-shot.png)
+![alt tag](/image/screen-shot.png)
